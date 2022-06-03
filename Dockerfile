@@ -1,4 +1,4 @@
-FROM iantorres/instance:latest
+FROM iantorres/server:latest
 
 COPY src /src
 
